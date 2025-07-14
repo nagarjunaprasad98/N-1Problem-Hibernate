@@ -3,6 +3,8 @@ package NPlue1Problem;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+// N + 1 Problem in Hibernate
+
 @SpringBootApplication
 public class NPlue1ProblemApplication {
 
